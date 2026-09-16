@@ -1,11 +1,13 @@
 
-
+import Rin from './rin'
 function App() {
 
   return (
-    
-    <h1> Hi React </h1>
-
+    <>
+    <Rin/>
+    <h1>App Component</h1>
+    < p>Welcome to the App Component!</p>
+    </>
   )
 }
 
