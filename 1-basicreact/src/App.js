@@ -1,8 +1,11 @@
 
-
+import Rin from './Rin';
 function App() {
   return (
-   <h1> Hello React </h1>
+    <>
+    <Rin />
+    <h1> Hello React </h1>
+    </>
   );
 }
 
